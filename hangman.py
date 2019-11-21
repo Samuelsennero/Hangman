@@ -37,7 +37,7 @@ def get_guess():
   if turns < 0:
     print ("Du förlorar, ordet var: " + str(word))
   else:
-    print ("Grattis! Du vann, ordet var: " + str(word))
+    print ("Hurra! Du vann, ordet var: " + str(word))
     
 
 def update_dashes(secret, cur_dash, rec_guess):
