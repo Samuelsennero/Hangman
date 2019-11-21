@@ -1,6 +1,6 @@
 import getpass
 print()
-print("Välkommen till hänga gubbe")
+print("Välkommen till hänga gubbe!")
 print()
 print("Detta spel kräver minst 2 spelare, en som väljer ord och resten som gissar")
 print()
